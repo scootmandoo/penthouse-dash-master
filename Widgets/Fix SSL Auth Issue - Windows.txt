@@ -1,0 +1,1 @@
+Fix SSL Auth issue on Windows:  https://gist.github.com/fnichol/867550
